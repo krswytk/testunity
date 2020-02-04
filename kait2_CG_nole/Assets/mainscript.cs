@@ -539,7 +539,7 @@ public class mainscript : MonoBehaviour
                 Character[1].SetActive(true);
                 AScore.PlayOneShot(Bois[SC - 1]);
                 break;
-
+                break;
 
 
         }
